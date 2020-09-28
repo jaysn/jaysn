@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Jaysn, haunting this world since 1989, also the web since 1996.
+
+## Proud user of:
+
+- [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23272822?style=for-the-badge&logo=sublime+text "Sublime Text")](https://www.sublimetext.com/)
+- [![Sourctree](https://img.shields.io/badge/Sourcetree-%230052CC?style=for-the-badge&logo=Atlassian "Source Tree")](https://www.sourcetreeapp.com/)
+- [![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge&logo=symfony "Symfony")](https://www.symfony.com/)
+- [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=ffffff "Laravel")](https://www.larvel.com/)
+- [![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress "WordPress")](https://www.wordpress.org/)
+
 <!--
 **jaysn/jaysn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
